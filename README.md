@@ -5,7 +5,7 @@
 
 
 
-> **Google and Pluralsight have partnered once again to give us  access to a comprehensive program on the hottest roles in tech, with support from the Google Developer Community and Andela. **
+> **Google and Pluralsight have partnered once again to give us  access to a comprehensive program on the hottest roles in tech, with support from the Google Developer Community and Andela.**
 
 
 .
