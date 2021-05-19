@@ -13,4 +13,4 @@
 
 
 
-https://pluralsight2.imgix.net/achievements/assets/badges/2021/viewtime-5-min-2021/enabled-dark.661803.svg
+![Fast Starter](https://pluralsight2.imgix.net/achievements/assets/badges/2021/viewtime-5-min-2021/enabled-dark.661803.svg)
