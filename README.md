@@ -12,5 +12,11 @@
 .
 
 
+## My First Badge  : [Fast Starter](https://www.pluralsight.com/achievements?badge=d702b052-cdba-47e8-b72e-97ca70f9966f )
+
+
+
+- **With every badge you earn you’re getting close to new skills and reaching your goals.**
+
 
 ![Fast Starter](https://pluralsight2.imgix.net/achievements/assets/badges/2021/viewtime-5-min-2021/enabled-dark.661803.svg)
