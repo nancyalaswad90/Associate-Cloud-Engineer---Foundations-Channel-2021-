@@ -20,3 +20,18 @@
 
 
 ![Fast Starter](https://pluralsight2.imgix.net/achievements/assets/badges/2021/viewtime-5-min-2021/enabled-dark.661803.svg)
+
+
+
+.
+
+## My First Badge  :
+
+
+
+.
+
+## My Third  Badge  : [Solar Explorer](https://www.pluralsight.com/achievements?badge=dfdcd1c4-c188-41e2-95ca-29cdcb85851a)
+
+
+
