@@ -14,6 +14,21 @@ The Google Africa Developer Scholarship (GADS) program gives participants free a
 
 
 
+
+> Grow with Google and Pluralsight have partnered for the third consecutive year to provide a program to support software developers across Africa in three different roles:
+
+
+- **Associate Android Developer**
+
+
+
+- **Associate Cloud Engineer**
+
+
+- **Mobile Web Specialist**
+
+
+
 .
 
 
