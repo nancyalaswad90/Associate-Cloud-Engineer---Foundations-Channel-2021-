@@ -37,12 +37,13 @@ The Google Africa Developer Scholarship (GADS) program gives participants free a
 > ![Pluralsight and the 2021 Google.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1619730878/Pluralsight_and_the_2021_Google.png)
 > 
 
-.
+
+
 
 .
 
 
-# [Associate Cloud Engineer - Foundations Channel for 2021 ](https://app.pluralsight.com/channels/details/db285911-816c-4297-80e1-ed08e58ce974)
+> # 1 . [Associate Cloud Engineer - Foundations Channel for 2021 ](https://app.pluralsight.com/channels/details/db285911-816c-4297-80e1-ed08e58ce974)
 
 
 
