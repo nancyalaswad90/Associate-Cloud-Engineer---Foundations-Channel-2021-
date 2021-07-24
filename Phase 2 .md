@@ -21,4 +21,7 @@
 We  need to strike a balance between opening our mind to the new tools and concepts, while remembering that the goal is to become ACE certified. 
 
 
+
+- [Google Associate Cloud Engineer Channel (ACE) ](https://app.pluralsight.com/channels/details/af513717-286c-4c27-ab58-1095473a8760)
+
 - [The exam guidelines ](https://cloud.google.com/certification/guides/cloud-engineer)
