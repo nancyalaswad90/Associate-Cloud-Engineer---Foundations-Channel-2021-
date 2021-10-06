@@ -16,7 +16,7 @@
 
 .
 
-> ## Phase (1) : Scholarship for [Associate Cloud Engineer Phase ( 1 )](https://app.pluralsight.com/profile/nancy-aswad) .
+> ## [Associate Cloud Engineer Phase ( 1 )](https://app.pluralsight.com/profile/nancy-aswad) .
 
 
 
