@@ -99,8 +99,6 @@ The Google Africa Developer Scholarship (GADS) program gives participants free a
 
 - **My Third  Badge**  : [Solar Explorer](https://www.pluralsight.com/achievements?badge=dfdcd1c4-c188-41e2-95ca-29cdcb85851a)
 
-![333](https://www.pluralsight.com/achievements?badge=dfdcd1c4-c188-41e2-95ca-29cdcb85851a)
-
 
 
 
