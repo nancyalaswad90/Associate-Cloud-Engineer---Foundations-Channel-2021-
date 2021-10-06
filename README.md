@@ -23,11 +23,6 @@
 ======================
 
 
-.
-
-![c](https://user-images.githubusercontent.com/36210723/127667796-4677ebfa-fd91-4f3a-9ebb-732145b85140.gif)
-
-.
 
 
 
@@ -111,7 +106,7 @@ The Google Africa Developer Scholarship (GADS) program gives participants free a
 
 .
 
-> ## Phase 2
+> ## Scholarship for [Associate Cloud Engineer Phase ( 2 )](https://app.pluralsight.com/channels/details/603245f5-77bd-4850-a181-9e0547fd4f2a) .
 
 
 
