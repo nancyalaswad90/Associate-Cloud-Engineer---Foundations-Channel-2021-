@@ -6,6 +6,23 @@
 > # [Pluralsight and the 2021 Google Certifications](https://www.pluralsight.com/partners/google/africa/gads-2021?aid=7014Q0000023RnOQAU&oid=&promo=&utm_campaign=&utm_content=&utm_medium=partner_partner_web_referral&utm_source=&utm_term=)
 
 
+
+
+
+
+.
+
+-----------------------------------------------
+
+.
+
+> ## Phase (1) : Scholarship for [Associate Cloud Engineer Phase ( 1 )](https://app.pluralsight.com/profile/nancy-aswad) .
+
+
+
+======================
+
+
 .
 
 ![c](https://user-images.githubusercontent.com/36210723/127667796-4677ebfa-fd91-4f3a-9ebb-732145b85140.gif)
@@ -82,6 +99,9 @@ The Google Africa Developer Scholarship (GADS) program gives participants free a
 ## My Third  Badge  : [Solar Explorer](https://www.pluralsight.com/achievements?badge=dfdcd1c4-c188-41e2-95ca-29cdcb85851a)
 
 ![333](https://www.pluralsight.com/achievements?badge=dfdcd1c4-c188-41e2-95ca-29cdcb85851a)
+
+
+
 
 
 
